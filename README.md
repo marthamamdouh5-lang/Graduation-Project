@@ -25,3 +25,7 @@ An interactive educational game developed as a graduation project using HTML, CS
 
 ### Project Presentation
 The project was designed to make learning more engaging through interactive educational content.
+## 🎮 Play the Game
+
+Click here to play the interactive educational game:
+https://view.genially.com/6a14193f46df012345bd6f31
